@@ -66,7 +66,7 @@ body{
 }
 
 .hero h1 {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     font-weight: 400;
     color: var(--stone-900-color);
 
@@ -92,8 +92,8 @@ body{
 }
 
 .hero article h2 {
-    font-size: 3rem;
-    color: var(--primary-color-1);
+    font-size: 1.5rem;
+    color: var(--primary-color-2);
     font-family: "Outfit", sans-serif;
     font-weight: 700;
 }
@@ -126,8 +126,9 @@ main section p {
 
 .ingredients h2 {
     margin-bottom: 2rem;
-    font-size: 2.5rem;
-    font-weight: 600;
+    font-size: 2rem;
+    font-weight: 300;
+    color: var(--primary-color-1);
 }
 
 .ingredients li {
@@ -154,13 +155,15 @@ main section p {
 }
 
 .instructions h2 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin-bottom: 1.5rem;
+    color: var(--primary-color-1);
 }
 
 .nutrition h2 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin-bottom: 1.5rem;
+    color: var(--primary-color-1);
 }
 
 .nutrition p {
@@ -180,10 +183,10 @@ main section p {
 }
 
 .nutrition h3 {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 400;
     width: 30%;
-    color: var(--stone-900-color);
+    color: var(--stone-400-color);
 }
 
 .nutrition span {
